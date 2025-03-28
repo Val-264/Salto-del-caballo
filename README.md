@@ -1,1 +1,1 @@
-# Dinamita
+# Funcionamiento
